@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1477034908 source:z:\nf16\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp3.h"
+
+1477035022 z:\nf16\tp3\tp3.h
+	<stdio.h>
+	<stdlib.h>
+
+1477035831 source:z:\nf16\tp3\tp3.c
+	"tp3.h"
+
+1479235958 source:c:\users\elodie\documents\utc\nf16\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp3.h"
+
+1479235960 c:\users\elodie\documents\utc\nf16\tp3\tp3.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1479286098 source:c:\users\elodie\documents\utc\nf16\tp3\tp3.c
+	"tp3.h"
+
